@@ -1,0 +1,34 @@
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    height: 100px;
+    box-shadow: 5px 5px black;
+    font-size: 40px;
+    color:#000066;
+    font-family: 'Babylonica';
+}
+
+p{
+    font-size: 30px;
+    color: white;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    background-color: blueviolet;
+    width: 100%;
+    height: 30px;
+    font-family:'Babylonica';
+    font-size: 25px;
+    color: white;
+}
+
+canvas{
+    border-radius: 25px;
+    margin: 15px;
+    box-shadow: 5px 5px black;
+}
+body{
+    background-size:cover;
+}
